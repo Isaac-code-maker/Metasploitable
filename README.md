@@ -1,4 +1,4 @@
-´´´
+
 
 # Metasploitable
 
@@ -13,5 +13,3 @@ Este repositório contém registros das atividades de pentesting realizadas na V
 - [Scripts Utilizados](scripts/)
 - [Lista de Vulnerabilidades Exploradas](vulnerabilities.md)
 
-  
-´´´
